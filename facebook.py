@@ -16,11 +16,12 @@ class bcolors:
     OKBLUE = '\033[94m'
 
 print bcolors.BOLD + ''
-print '\t   # Hacker Adana Facebook Brute Force'
-print '\t   # v1.0~07.09.2016 '
-print '\t   # Github: /HackerAdana'
-print '\t   # Twitter: @HackerAdana'
-print '\t   # Gizlimanyak@gmail.com  PGP: 7ECD8357'
+print '\t   # Eng Kamaal Ali   Facebook Brute Force'
+print '\t   # v1.0~07.09.2019 '
+print '\t   # Github: /Kamaal44'
+print '\t   # Insta  :/eng_kamal_ali
+print '\t   # engkamaalali@gmail.com  PGP: 7ECD8357'
+print '\t   # Facebook : /kamaal.ali.aidid
 print '' + bcolors.ENDC
 
 email = str(raw_input("[?] Kullanıcı adı | Kullanıcı ID | E-Posta | Telefon numarası :> "))
